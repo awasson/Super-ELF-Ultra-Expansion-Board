@@ -3,6 +3,7 @@ The Super Elf Ultra Expansion Board is a plug in expansion board for the Quest E
 
 This board provides the following features:
 * 64K RAM/ROM.
+* RAM Battery Backup via DS1210.
 * Compatibility with STG ELF2K (Spare Time Gizmos) Firmware.
 * Run with monitor feature to boot firmware or monitor software at a predetermined address location.
 * Serial connections using bit-bang serial or UART.
